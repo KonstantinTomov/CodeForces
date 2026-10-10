@@ -7,7 +7,7 @@
             "command": "C:\\msys64\\usr\\bin\\bash.exe",
             "args": [
                 "-lc",
-                "cd /c/Users/Konstantin/Documents/CodeForces/contests/educational_round_192 && g++ -std=gnu++17 -O2 D.cpp -o D.exe"
+                "cd /c/Users/Konstantin/Documents/CodeForces/contests/round_1126 && g++ -std=gnu++17 -O2 E.cpp -o E.exe"
             ],
             "problemMatcher": ["$gcc"],
             "group": {
